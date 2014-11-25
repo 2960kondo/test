@@ -2,3 +2,8 @@ test
 ====
 
 Githubのテスト
+
+##メンバー
+
+*testmember
+
